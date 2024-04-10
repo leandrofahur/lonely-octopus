@@ -1,0 +1,607 @@
+ID,Crop_Group,Production_Mode,Crop,Field_area,Irrigation,Irrigation_mode,Greenhouse
+1,Vegetable,In succession,Zucchini,2,No,NA,Small tunel
+2,Vegetable,Primary,Tomato,2,No,NA,Small tunel
+3,Vegetable,Primary,Zucchini,0.75,No,NA,No
+4,Vegetable,Primary,Mint,0.1,Yes,Localized,No
+5,Vegetable,In succession,Zucchini,1.75,Yes,Gravity,No
+6,Vegetable,Primary,Zucchini,0.9,Yes,Localized,No
+7,Vegetable,Primary,Potato,1.75,Yes,Gravity,No
+8,Vegetable,Primary,Tomato,0.75,Yes,Gravity,No
+9,Vegetable,Primary,Green bean,0.25,Yes,Gravity,No
+10,Vegetable,In succession,Zucchini,2,Yes,Localized,No
+11,Vegetable,Primary,Tomato,2,Yes,Localized,No
+12,Vegetable,In succession,Zucchini,2,Yes,Localized,No
+13,Vegetable,Primary,Tomato,2,Yes,Localized,No
+14,Vegetable,Primary,Zucchini,1.4,Yes,Localized,No
+15,Vegetable,Primary,Zucchini,0.5,No,NA,No
+16,Vegetable,In succession,Zucchini,1.9,No,NA,No
+17,Vegetable,Primary,Tomato,1.9,No,NA,No
+18,Vegetable,Primary,Potato,1,Yes,Localized,No
+19,Vegetable,In succession,Zucchini,12.74,Yes,Gravity,No
+20,Vegetable,Primary,Potato,12.74,Yes,Gravity,No
+21,Vegetable,In succession,Zucchini,1.7,No,NA,No
+22,Vegetable,Primary,Zucchini,0.9,Yes,Localized,No
+23,Vegetable,Primary,Tomato,1.7,No,NA,No
+24,Vegetable,Primary,Zucchini,1.5,No,NA,No
+25,Vegetable,Primary,Zucchini,1.4,No,NA,No
+26,Vegetable,Primary,Zucchini,1.1,No,NA,No
+27,Vegetable,Primary,Zucchini,0.9,No,NA,No
+28,Vegetable,Primary,Zucchini,1.6,No,NA,No
+29,Vegetable,In succession,Zucchini,2.9,No,NA,No
+30,Vegetable,Primary,Potato,2.9,No,NA,No
+31,Vegetable,Primary,Zucchini,0.4,Yes,Localized,No
+32,Vegetable,Primary,Potato,1,Yes,Gravity,No
+33,Vegetable,Primary,Zucchini,0.75,Yes,Gravity,No
+34,Vegetable,Primary,Cauliflower,0.5,Yes,Gravity,No
+35,Vegetable,Primary,Zucchini,0.37,Yes,Localized,No
+36,Vegetable,In succession,Zucchini,2.7,No,NA,No
+37,Vegetable,Primary,Tomato,2.7,No,NA,No
+38,Vegetable,Primary,Zucchini,0.26,No,NA,No
+39,Vegetable,In succession,Zucchini,2.9,No,NA,No
+40,Vegetable,Primary,Potato,2.9,No,NA,No
+41,Vegetable,Primary,Zucchini,1.1,Yes,Localized,No
+42,Vegetable,In association,Zucchini,1,No,NA,No
+43,Vegetable,Primary,Potato,0.75,Yes,Aspersion,No
+44,Vegetable,In succession,Onion,2,No,Aspersion,No
+45,Vegetable,Primary,Tomato,2,No,Aspersion,No
+46,Vegetable,Primary,Blueberry,0.33,Yes,Localized,Small tunel
+47,Vegetable,Primary,Zucchini,1.25,No,NA,No
+48,Vegetable,Primary,Zucchini,1.5,Yes,Localized,No
+49,Vegetable,In succession,Zucchini,7,Yes,Localized,No
+50,Vegetable,Primary,Potato,7,Yes,Localized,No
+51,Vegetable,Primary,Zucchini,0.4,No,NA,No
+52,Vegetable,Understory,Potato,0.1,Yes,Localized,No
+53,Vegetable,In succession,Green bean,2.5,Yes,Localized,No
+54,Vegetable,In succession,Tomato,2.1,Yes,Localized,No
+55,Vegetable,In succession,Carrot,2,Yes,Localized,No
+56,Vegetable,In succession,Tomato,2,Yes,Localized,No
+57,Vegetable,Primary,Potato,2.5,Yes,Localized,No
+58,Vegetable,Primary,Potato,2.1,Yes,Localized,No
+59,Vegetable,Primary,Tomato,2,Yes,Localized,No
+60,Vegetable,In succession,Zucchini,2.5,No,NA,No
+61,Vegetable,Primary,Zucchini,0.94,No,NA,No
+62,Vegetable,Primary,Zucchini,0.37,No,NA,No
+63,Vegetable,Primary,Zucchini,0.16,No,NA,No
+64,Vegetable,Primary,Tomato,2.5,No,NA,No
+65,Vegetable,In succession,Zucchini,4.5,Yes,Localized,No
+66,Vegetable,Primary,Potato,4.5,Yes,Localized,No
+67,Vegetable,Primary,Zucchini,0.5,Yes,Localized,No
+68,Vegetable,Primary,Potato,0.75,Yes,Localized,No
+69,Vegetable,In succession,Green bean,1.75,Yes,Localized,No
+70,Vegetable,Primary,Tomato,1.75,Yes,Localized,No
+71,Vegetable,Primary,Zucchini,1.5,No,NA,No
+72,Vegetable,Primary,Green bean,0.75,No,Localized,No
+73,Vegetable,Primary,Green bean,0.49,No,Localized,No
+74,Vegetable,Primary,Coriander and parsley,1.6,Yes,Gravity,No
+75,Vegetable,Primary,Coriander and parsley,0.5,Yes,Localized,No
+76,Vegetable,Primary,Zucchini,1,No,NA,No
+77,Vegetable,In association,Potato,0.75,Yes,Localized,No
+78,Vegetable,Primary,Potato,1.25,No,NA,No
+79,Vegetable,Primary,Potato,2,Yes,Localized,No
+80,Vegetable,Primary,Zucchini,0.5,Yes,Localized,No
+81,Vegetable,Primary,Tomato,0.5,Yes,Localized,No
+82,Vegetable,Primary,Tomato,1.5,Yes,Localized,No
+83,Vegetable,Primary,Potato,1.44,Yes,Localized,No
+84,Vegetable,In succession,Green bean,2.15,Yes,Localized,No
+85,Vegetable,Primary,Potato,2.15,Yes,Localized,No
+86,Vegetable,Primary,Cucumber,0.3,Yes,Localized,Canarian
+87,Vegetable,In succession,Green bean,0.76,Yes,Localized,No
+88,Vegetable,Primary,Potato,0.76,Yes,Localized,No
+89,Vegetable,In succession,Cucumber,0.9,Yes,Localized,No
+90,Vegetable,Primary,Zucchini,0.16,Yes,Localized,No
+91,Vegetable,Primary,Green bean,0.9,Yes,Localized,No
+92,Vegetable,In succession,Green bean,3.25,Yes,Localized,No
+93,Vegetable,Primary,Potato,3.25,Yes,Localized,No
+94,Vegetable,Primary,Tomato,0.25,Yes,Localized,Small tunel
+95,Vegetable,Primary,Zucchini,0.75,Yes,Localized,No
+96,Vegetable,In succession,Potato,0.9,Yes,Localized,No
+97,Vegetable,Primary,Zucchini,0.9,Yes,Localized,No
+98,Vegetable,Primary,Tomato,0.5,Yes,Localized,No
+99,Vegetable,Primary,Potato,1,Yes,Localized,No
+100,Vegetable,In association,Green bean,1,Yes,Localized,No
+101,Vegetable,Primary,Tomato,2,Yes,Localized,No
+102,Vegetable,Primary,Potato,2.5,Yes,Localized,No
+103,Vegetable,Primary,Coriander and parsley,0.5,Yes,Localized,No
+104,Vegetable,Primary,Potato,1.5,Yes,Localized,No
+105,Vegetable,Primary,Green bean,1.2,Yes,Localized,Multi-chapel
+106,Vegetable,Primary,Cucumber,1,Yes,Localized,No
+107,Vegetable,In succession,Green bean,0.85,Yes,Gravity,No
+108,Vegetable,In succession,Zucchini,0.85,Yes,Gravity,No
+109,Vegetable,Primary,Potato,0.85,Yes,Gravity,No
+110,Vegetable,Primary,Potato,1.3,Yes,Localized,No
+111,Vegetable,Primary,Potato,2,Yes,Localized,No
+112,Vegetable,Primary,Coriander and parsley,0.1,Yes,Localized,No
+113,Vegetable,Primary,Coriander and parsley,1.38,Yes,Localized,No
+114,Vegetable,Primary,Potato,1,Yes,Localized,No
+115,Vegetable,Primary,Potato,1.5,Yes,Localized,No
+116,Vegetable,Primary,Coriander and parsley,0.5,Yes,Localized,No
+117,Vegetable,Primary,Potato,1.65,Yes,Localized,No
+118,Vegetable,Primary,Tomato,1.1,Yes,Localized,No
+119,Vegetable,Primary,Potato,0.8,Yes,Localized,No
+120,Vegetable,Primary,Zucchini,0.1,Yes,Localized,No
+121,Vegetable,Primary,Potato,0.4,Yes,Localized,No
+122,Vegetable,Primary,Zucchini,0.2,Yes,Localized,No
+123,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+124,Vegetable,In succession,Zucchini,2.58,Yes,Localized,No
+125,Vegetable,Primary,Tomato,2.58,Yes,Localized,No
+126,Vegetable,In succession,Zucchini,1.7,Yes,Localized,No
+127,Vegetable,Primary,Tomato,1.7,Yes,Localized,No
+128,Vegetable,Primary,Potato,1.45,Yes,Localized,No
+129,Vegetable,Primary,Green bean,1.16,Yes,Localized,No
+130,Vegetable,Primary,Potato,3.9,No,Localized,No
+131,Vegetable,In succession,Zucchini,2.3,No,NA,No
+132,Vegetable,Primary,Tomato,2.3,No,NA,No
+133,Vegetable,Primary,Cucumber,0.5,Yes,Localized,Small tunel
+134,Vegetable,Primary,Kiwat tomato,0.5,Yes,Localized,Small tunel
+135,Vegetable,Primary,Green bean,0.2,Yes,Localized,Small tunel
+136,Vegetable,Primary,Green bean,1,Yes,Localized,No
+137,Vegetable,Primary,Tomato,0.3,Yes,Localized,No
+138,Vegetable,Primary,Coriander and parsley,0.3,Yes,Localized,No
+139,Vegetable,Primary,Green cabbage,0.09,Yes,Localized,No
+140,Vegetable,In succession,Green bean,0.5,Yes,Localized,Multi-chapel
+141,Vegetable,In succession,Tomato,0.5,Yes,Localized,Multi-chapel
+142,Vegetable,Primary,Potato,0.01,Yes,Localized,No
+143,Vegetable,Primary,Cucumber,0.5,Yes,Localized,Multi-chapel
+144,Vegetable,In succession,Tomato,0.2,Yes,Localized,No
+145,Vegetable,Primary,Green bean,0.2,Yes,Localized,No
+146,Vegetable,Primary,Coriander and parsley,0.03,Yes,Localized,No
+147,Vegetable,In succession,Green bean,0.84,Yes,Localized,No
+148,Vegetable,In succession,Tomato,0.84,Yes,Localized,No
+149,Vegetable,Primary,Potato,0.84,Yes,Localized,No
+150,Vegetable,Primary,Zucchini,1,Yes,Localized,No
+151,Vegetable,Primary,Coriander and parsley,0.24,Yes,Localized,No
+152,Vegetable,Primary,Zucchini,0.5,Yes,Localized,No
+153,Vegetable,Primary,Coriander and parsley,0.4,Yes,Localized,No
+154,Vegetable,Primary,Zucchini,1,Yes,Localized,Canarian
+155,Vegetable,Primary,Coriander and parsley,0.2,Yes,Localized,Canarian
+156,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+157,Vegetable,Primary,Green bean,0.65,Yes,Localized,No
+158,Vegetable,Primary,Onion,0.3,Yes,Localized,No
+159,Vegetable,Primary,Hot pepper,0.3,Yes,Localized,No
+160,Vegetable,In succession,Zucchini,0.75,Yes,Localized,No
+161,Vegetable,In succession,Lettuce,0.75,Yes,Localized,No
+162,Vegetable,Primary,Green bean,0.75,Yes,Localized,No
+163,Vegetable,Primary,Green cabbage,0.25,Yes,Localized,No
+164,Vegetable,In succession,Zucchini,2,Yes,Aspersion,No
+165,Vegetable,Primary,Green bean,1.25,Yes,Localized,No
+166,Vegetable,Primary,Zucchini,1.5,Yes,Localized,No
+167,Vegetable,Primary,Tomato,2,Yes,Aspersion,No
+168,Vegetable,In succession,Green bean,1,No,NA,No
+169,Vegetable,In succession,Hot pepper,3,Yes,Localized,No
+170,Vegetable,In succession,Zucchini,2.5,Yes,Localized,No
+171,Vegetable,In succession,Carrot,2,Yes,Localized,No
+172,Vegetable,Primary,Tomato,2.5,Yes,Localized,No
+173,Vegetable,Primary,Tomato,2,Yes,Localized,No
+174,Vegetable,Primary,Eggplant,1.3,Yes,Aspersion,No
+175,Vegetable,Primary,Tomato,0.6,Yes,Aspersion,No
+176,Vegetable,In succession,Green cabbage,1.75,Yes,NA,No
+177,Vegetable,In succession,Cauliflower,1.75,No,NA,No
+178,Vegetable,Primary,Tomato,1.75,No,NA,No
+179,Vegetable,In succession,Cauliflower,2,Yes,Localized,No
+180,Vegetable,In succession,Zucchini,1.5,Yes,Localized,No
+181,Vegetable,In succession,Lettuce,1.5,Yes,Localized,No
+182,Vegetable,Primary,Tomato,2,Yes,Localized,No
+183,Vegetable,Primary,Eggplant,1.5,Yes,Localized,No
+184,Vegetable,Primary,Potato,0.8,Yes,Localized,No
+185,Vegetable,Primary,Green bean,0.18,Yes,Localized,No
+186,Vegetable,In association,Green bean,0.2,Yes,Localized,No
+187,Vegetable,Primary,Zucchini,0.3,Yes,Localized,No
+188,Vegetable,Primary,Zucchini,0.48,Yes,Localized,No
+189,Vegetable,Primary,Green bean,0.5,Yes,Localized,No
+190,Vegetable,In association,Coriander and parsley,0.05,Yes,Localized,No
+191,Vegetable,In association,Green bean,0.2,Yes,Localized,No
+192,Vegetable,Primary,Potato,0.3,Yes,Localized,No
+193,Vegetable,Primary,Green bean,0.5,Yes,Localized,No
+194,Vegetable,Primary,Green bean,0.98,Yes,Localized,No
+195,Vegetable,Primary,Green bean,1.4,Yes,Aspersion,No
+196,Vegetable,Primary,Coriander and parsley,0.38,Yes,Localized,No
+197,Vegetable,Primary,Coriander and parsley,0.54,Yes,Localized,No
+198,Vegetable,Primary,Green bean,0.5,Yes,Gravity,No
+199,Vegetable,Primary,Zucchini,0.76,Yes,Localized,No
+200,Vegetable,In association,Green bean,1,Yes,Localized,No
+201,Vegetable,Primary,Potato,1,Yes,Localized,No
+202,Vegetable,In association,Coriander and parsley,0.75,Yes,Localized,No
+203,Vegetable,Primary,Green bean,0.82,Yes,Localized,No
+204,Vegetable,Primary,Cucumber,0.5,Yes,Localized,Small tunel
+205,Vegetable,Primary,Zucchini,0.5,Yes,Localized,Small tunel
+206,Vegetable,Primary,Zucchini,1.2,Yes,Localized,No
+207,Vegetable,Primary,Potato,1.35,No,Localized,No
+208,Vegetable,Primary,Green bean,0.95,Yes,Localized,No
+209,Vegetable,Primary,Cucumber,0.4,Yes,Localized,Small tunel
+210,Vegetable,Primary,Green bean,0.64,Yes,Localized,No
+211,Vegetable,Primary,Zucchini,0.71,Yes,Localized,No
+212,Vegetable,Primary,Zucchini,1,Yes,Localized,No
+213,Vegetable,Primary,Potato,0.3,Yes,Localized,No
+214,Vegetable,In succession,Celery,0.2,Yes,Localized,No
+215,Vegetable,In succession,Lettuce,0.2,Yes,Localized,No
+216,Vegetable,In succession,Green bean,1.6,Yes,Localized,No
+217,Vegetable,Primary,Coriander and parsley,1.6,Yes,Localized,No
+218,Vegetable,In succession,Zucchini,0.75,Yes,Localized,No
+219,Vegetable,In succession,Green bean,0.36,Yes,Localized,No
+220,Vegetable,In succession,Cucumber,0.36,Yes,Localized,No
+221,Vegetable,Primary,Potato,0.75,Yes,Localized,No
+222,Vegetable,Primary,Tomato,0.36,Yes,Localized,No
+223,Vegetable,In association,Zucchini,0.02,No,NA,No
+224,Vegetable,In succession,Green bean,0.5,Yes,Localized,No
+225,Vegetable,Primary,Tomato,0.3,Yes,Localized,No
+226,Vegetable,Primary,Tomato,0.38,Yes,Localized,No
+227,Vegetable,Primary,Tomato,0.5,Yes,Localized,No
+228,Vegetable,Primary,Watermelon,1.5,Yes,Localized,No
+229,Vegetable,Primary,Zucchini,0.6,Yes,Localized,No
+230,Vegetable,Primary,Tomato,0.25,Yes,Gravity,Canarian
+231,Vegetable,Primary,Mint,0.75,No,NA,No
+232,Vegetable,In succession,Cucumber,0.5,Yes,Localized,No
+233,Vegetable,In succession,Zucchini,0.5,Yes,Localized,No
+234,Vegetable,Primary,Coriander and parsley,0.51,Yes,Localized,No
+235,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+236,Vegetable,Primary,Tomato,0.5,Yes,Localized,No
+237,Vegetable,In succession,Zucchini,0.5,Yes,Localized,No
+238,Vegetable,In succession,Tomato,0.4,Yes,Localized,No
+239,Vegetable,In succession,Green bean,0.65,Yes,Localized,No
+240,Vegetable,Primary,Green bean,0.5,Yes,Localized,No
+241,Vegetable,Primary,Potato,0.4,Yes,Localized,No
+242,Vegetable,Primary,Zucchini,0.65,Yes,Localized,No
+243,Vegetable,Primary,Green bean,1.11,Yes,Localized,No
+244,Vegetable,Primary,Coriander and parsley,1.14,Yes,Localized,No
+245,Vegetable,Primary,Coriander and parsley,0.2,Yes,Localized,No
+246,Vegetable,Primary,Eggplant,0.75,Yes,Localized,No
+247,Vegetable,Primary,Green bean,0.4,No,NA,No
+248,Vegetable,Primary,Green bean,0.35,Yes,Localized,No
+249,Vegetable,Primary,Zucchini,0.3,Yes,Localized,No
+250,Vegetable,Primary,Zucchini,0.35,No,Localized,No
+251,Vegetable,Primary,Zucchini,0.79,No,NA,No
+252,Vegetable,In succession,Coriander and parsley,0.41,Yes,Localized,No
+253,Vegetable,In succession,Zucchini,0.3,Yes,Localized,No
+254,Vegetable,Primary,Green bean,0.41,Yes,Localized,No
+255,Vegetable,Primary,Potato,0.3,Yes,Localized,No
+256,Vegetable,In association,Green bean,0.73,Yes,Localized,No
+257,Vegetable,Primary,Potato,0.73,Yes,Localized,No
+258,Vegetable,In succession,Coriander and parsley,0.24,Yes,Localized,No
+259,Vegetable,In succession,Potato,0.24,Yes,Localized,No
+260,Vegetable,Primary,Green bean,0.24,Yes,Localized,No
+261,Vegetable,In succession,Green bean,0.2,Yes,Localized,No
+262,Vegetable,Primary,Potato,0.47,Yes,Localized,No
+263,Vegetable,Primary,Green bean,0.7,Yes,Localized,No
+264,Vegetable,Primary,Zucchini,0.49,Yes,Localized,No
+265,Vegetable,Primary,Coriander and parsley,0.195,Yes,Localized,No
+266,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+267,Vegetable,Primary,Coriander and parsley,0.25,Yes,Localized,No
+268,Vegetable,Primary,Zucchini,0.2,Yes,Localized,No
+269,Vegetable,Primary,Coriander and parsley,0.66,Yes,Localized,No
+270,Vegetable,Primary,Coriander and parsley,0.08,Yes,Localized,No
+271,Vegetable,In succession,Coriander and parsley,0.5,Yes,Localized,No
+272,Vegetable,In succession,Helda bean,0.5,Yes,Localized,No
+273,Vegetable,Primary,Potato,0.4,Yes,Localized,No
+274,Vegetable,Primary,Zucchini,0.5,Yes,Localized,No
+275,Vegetable,Primary,Cucumber,0.3,Yes,Localized,No
+276,Vegetable,Primary,Coriander and parsley,0.22,Yes,Localized,No
+277,Vegetable,Primary,Zucchini,0.2,Yes,Localized,No
+278,Vegetable,In succession,Zucchini,0.11,Yes,Gravity,No
+279,Vegetable,Primary,Carrot,0.2,Yes,Gravity,No
+280,Vegetable,Primary,Potato,0.1,Yes,Gravity,No
+281,Vegetable,Primary,Mint,0.31,Yes,Localized,No
+282,Vegetable,Primary,Celery,0.1,Yes,Localized,No
+283,Vegetable,Primary,Coriander and parsley,0.1,Yes,Localized,No
+284,Vegetable,In succession,Potato,0.4,Yes,Localized,No
+285,Vegetable,Primary,Zucchini,0.4,Yes,Localized,No
+286,Vegetable,Primary,Coriander and parsley,0.35,Yes,Localized,No
+287,Vegetable,Primary,Cucumber,0.2,Yes,Localized,Small tunel
+288,Vegetable,Primary,Green bean,1.2,Yes,Localized,No
+289,Vegetable,Primary,Zucchini,0.6,Yes,Localized,No
+290,Vegetable,In association,Coriander and parsley,0.2,Yes,Localized,No
+291,Vegetable,Primary,Green bean,0.3,Yes,Gravity,No
+292,Vegetable,In association,Mint,0.2,Yes,Gravity,No
+293,Vegetable,In association,Onion,0.05,No,Localized,No
+294,Vegetable,Primary,Onion,0.16,No,Gravity,No
+295,Vegetable,Primary,Eggplant,0.7,Yes,Localized,No
+296,Vegetable,Primary,Artichoke,0.7,Yes,Localized,No
+297,Vegetable,Primary,Zucchini,0.69,Yes,Localized,No
+298,Vegetable,Primary,Green bean,0.5,Yes,Localized,No
+299,Vegetable,Primary,Turnip,0.5,Yes,Localized,No
+300,Vegetable,Primary,Green cabbage,0.25,Yes,Localized,No
+301,Vegetable,Primary,Cauliflower,0.2,Yes,Localized,No
+302,Vegetable,Primary,Coriander and parsley,0.73,Yes,Localized,No
+303,Vegetable,Primary,Coriander and parsley,0.1,Yes,Gravity,No
+304,Vegetable,Primary,Coriander and parsley,0.2,Yes,Localized,No
+305,Vegetable,In succession,Green bean,1.45,Yes,Localized,No
+306,Vegetable,In succession,Eggplant,1.45,Yes,Localized,No
+307,Vegetable,In succession,Zucchini,1.45,Yes,Localized,No
+308,Vegetable,In succession,Zucchini,0.75,Yes,Localized,No
+309,Vegetable,Primary,Helda bean,0.25,Yes,Localized,No
+310,Vegetable,Primary,Eggplant,0.75,Yes,Localized,No
+311,Vegetable,Primary,Lettuce,1.5,Yes,Localized,No
+312,Vegetable,Primary,Green bean,1.45,Yes,Localized,No
+313,Vegetable,Primary,Coriander and parsley,0.45,Yes,Localized,Canarian
+314,Vegetable,Primary,Potato,0.6,Yes,Localized,No
+315,Vegetable,Primary,Cucumber,0.2,Yes,Localized,Canarian
+316,Vegetable,Primary,Coriander and parsley,0.1,Yes,Localized,Canarian
+317,Vegetable,Primary,Potato,0.35,Yes,Localized,No
+318,Vegetable,Primary,Tomato,1.15,Yes,Localized,No
+319,Vegetable,Primary,Cucumber,1,Yes,Localized,No
+320,Vegetable,Primary,Cucumber,0.99,Yes,Localized,No
+321,Vegetable,Primary,Mint,0.3,Yes,Localized,No
+322,Vegetable,Primary,Cucumber,0.4,Yes,Localized,Small tunel
+323,Vegetable,Primary,Kiwat tomato,0.2,Yes,Localized,Small tunel
+324,Vegetable,Primary,Mint,0.4,Yes,Localized,No
+325,Vegetable,Primary,Coriander and parsley,0.04,Yes,Localized,No
+326,Vegetable,Understory,Coriander and parsley,0.4,Yes,Localized,No
+327,Vegetable,Understory,Mint,0.3,Yes,Localized,No
+328,Vegetable,Understory,Mint,0.5,Yes,Localized,No
+329,Vegetable,Understory,Coriander and parsley,0.3,Yes,Localized,No
+330,Vegetable,In succession,Coriander and parsley,1.69,Yes,Localized,No
+331,Vegetable,Primary,Tomato,1.69,Yes,Localized,No
+332,Vegetable,Primary,Coriander and parsley,1.49,Yes,Localized,No
+333,Vegetable,Primary,Potato,1.35,Yes,Localized,No
+334,Vegetable,Primary,Coriander and parsley,1.3,Yes,Localized,No
+335,Vegetable,Primary,Cucumber,0.3,Yes,Localized,No
+336,Vegetable,Primary,Cucumber,0.2,Yes,Localized,Small tunel
+337,Vegetable,Primary,Cucumber,0.44,Yes,Localized,No
+338,Vegetable,Primary,Cucumber,0.48,Yes,Localized,No
+339,Vegetable,Primary,Potato,1.2,Yes,Localized,No
+340,Vegetable,Primary,Green bean,0.16,Yes,Localized,No
+341,Vegetable,In succession,Coriander and parsley,3,Yes,Localized,No
+342,Vegetable,In succession,Mint,1.85,Yes,Localized,No
+343,Vegetable,Primary,Potato,3,Yes,Localized,No
+344,Vegetable,Primary,Tomato,1.85,Yes,Localized,No
+345,Vegetable,Primary,Coriander and parsley,0.392,Yes,Localized,No
+346,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+347,Vegetable,Primary,Green bean,0.5,Yes,Localized,No
+348,Vegetable,Primary,Absinthe,0.4,Yes,Gravity,No
+349,Vegetable,Primary,Tomato,0.7,Yes,Localized,No
+350,Vegetable,Primary,Potato,0.71,Yes,Localized,No
+351,Vegetable,In association,Coriander and parsley,0.1,Yes,Localized,No
+352,Vegetable,In association,Mint,0.1,Yes,Localized,No
+353,Vegetable,Primary,Zucchini,0.48,No,Localized,No
+354,Vegetable,Primary,Coriander and parsley,0.05,Yes,Gravity,No
+355,Vegetable,Primary,Mint,0.1,No,Gravity,No
+356,Vegetable,In succession,Green bean,0.5,Yes,Localized,No
+357,Vegetable,In succession,Zucchini,0.5,Yes,Localized,No
+358,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+359,Vegetable,Primary,Coriander and parsley,0.2,Yes,Localized,No
+360,Vegetable,In succession,Green bean,0.5,Yes,Localized,No
+361,Vegetable,In succession,Tomato,0.34,Yes,Localized,No
+362,Vegetable,In succession,Cucumber,0.34,Yes,Localized,Canarian
+363,Vegetable,Primary,Potato,1.07,Yes,Localized,No
+364,Vegetable,Primary,Zucchini,0.5,Yes,Localized,No
+365,Vegetable,Primary,Cucumber,0.34,Yes,Localized,No
+366,Vegetable,Primary,Green bean,0.32,Yes,Localized,No
+367,Vegetable,Primary,Tomato,0.34,Yes,Localized,Canarian
+368,Vegetable,Primary,Mint,0.5,Yes,Localized,No
+369,Vegetable,Primary,Potato,1,Yes,Localized,No
+370,Vegetable,Primary,Coriander and parsley,0.29,Yes,Localized,No
+371,Vegetable,Primary,Mint,0.15,Yes,Gravity,No
+372,Vegetable,In association,Coriander and parsley,0.89,Yes,Localized,No
+373,Vegetable,Primary,Mint,0.89,Yes,Localized,No
+374,Vegetable,In association,Coriander and parsley,0.43,Yes,Localized,No
+375,Vegetable,Primary,Mint,0.43,Yes,Localized,No
+376,Vegetable,Primary,Tomato,0.3,Yes,Localized,No
+377,Vegetable,In association,Coriander and parsley,0.2,Yes,Localized,No
+378,Vegetable,In association,Mint,0.2,Yes,Localized,No
+379,Vegetable,In association,Zucchini,0.14,Yes,Localized,No
+380,Vegetable,In association,Pepper,0.1,Yes,Localized,No
+381,Vegetable,Primary,Potato,1,Yes,Localized,No
+382,Vegetable,In association,Tomato,1,Yes,Localized,No
+383,Vegetable,In association,Coriander and parsley,0.63,Yes,Localized,No
+384,Vegetable,Primary,Mint,0.63,Yes,Localized,No
+385,Vegetable,Primary,Mint,0.5,Yes,Pivot,No
+386,Vegetable,Primary,Coriander and parsley,0.45,Yes,Pivot,No
+387,Vegetable,Primary,Zucchini,0.65,Yes,Pivot,No
+388,Vegetable,Primary,Cucumber,0.3,Yes,Pivot,Big Tunel
+389,Vegetable,Primary,Potato,0.08,No,NA,No
+390,Vegetable,Primary,Green cabbage,0.02,No,NA,No
+391,Vegetable,Primary,Endive,0.2,No,NA,No
+392,Vegetable,Primary,Green cabbage,0.01,No,NA,No
+393,Vegetable,In association,Potato,0.5,Yes,Localized,No
+394,Vegetable,Primary,Tomato,0.5,Yes,Localized,No
+395,Vegetable,Primary,Potato,0.86,Yes,Pivot,Big Tunel
+396,Vegetable,Primary,Cucumber,0.2,Yes,Pivot,Big Tunel
+397,Vegetable,In succession,Cauliflower,3.84,Yes,Pivot,No
+398,Vegetable,In succession,Blueberry,10.45,Yes,Localized,Big Tunel
+399,Vegetable,Primary,Potato,10.45,Yes,Localized,Big Tunel
+400,Vegetable,Primary,Green bean,1.08,No,NA,No
+401,Vegetable,Primary,Cucumber,0.18,Yes,Localized,Small tunel
+402,Vegetable,Primary,Green bean,0.74,Yes,Localized,No
+403,Vegetable,Primary,Cucumber,0.5,Yes,Localized,Big Tunel
+404,Vegetable,Primary,Green bean,0.6,Yes,Localized,Canarian
+405,Vegetable,In association,Green bean,0.8,Yes,Localized,No
+406,Vegetable,In association,Onion,0.5,Yes,Localized,No
+407,Vegetable,Primary,Potato,0.73,Yes,Localized,No
+408,Vegetable,Primary,Potato,1,Yes,Localized,No
+409,Vegetable,Primary,Coriander and parsley,0.5,Yes,Localized,No
+410,Vegetable,Primary,Zucchini,0.235,Yes,Localized,No
+411,Vegetable,Primary,Cucumber,0.5,No,Localized,Small tunel
+412,Vegetable,Primary,Potato,1.5,Yes,Localized,No
+413,Vegetable,Primary,Potato,1.25,Yes,Localized,No
+414,Vegetable,Primary,Zucchini,0.3,Yes,"Gravity, Localized",Canarian
+415,Vegetable,Primary,Tomato,0.25,Yes,"Gravity, Localized",Canarian
+416,Vegetable,Primary,Cucumber,0.2,Yes,"Gravity, Localized",Canarian
+417,Vegetable,Primary,Green bean,0.25,Yes,Localized,No
+418,Vegetable,Primary,Zucchini,1.32,No,NA,No
+419,Vegetable,Primary,Zucchini,0.81,Yes,Localized,No
+420,Vegetable,Primary,Cucumber,0.16,Yes,Localized,Small tunel
+421,Vegetable,Primary,Coriander and parsley,0.63,Yes,Localized,No
+422,Vegetable,In succession,Cucumber,3.11,Yes,Localized,No
+423,Vegetable,In succession,Zucchini,2.6,Yes,Localized,No
+424,Vegetable,Primary,Potato,3.11,Yes,Localized,No
+425,Vegetable,Primary,Tomato,1.64,Yes,Localized,No
+426,Vegetable,Primary,Potato,1.51,Yes,Localized,No
+427,Vegetable,Primary,Tomato,2.6,Yes,Localized,No
+428,Vegetable,Primary,Zucchini,0.33,Yes,Localized,No
+429,Vegetable,In succession,Coriander and parsley,2.32,Yes,Localized,No
+430,Vegetable,Primary,Tomato,2.32,Yes,Localized,No
+431,Vegetable,In succession,Carrot,5.5,No,Gravity,No
+432,Vegetable,In succession,Zucchini,4,No,Gravity,No
+433,Vegetable,In succession,Zucchini,4.11,No,Gravity,No
+434,Vegetable,Primary,Eggplant,0.8,Yes,Localized,No
+435,Vegetable,Primary,Artichoke,0.7,Yes,Localized,No
+436,Vegetable,Primary,Coriander and parsley,0.6,Yes,Localized,No
+437,Vegetable,Primary,Potato,5.5,No,Gravity,No
+438,Vegetable,Primary,Potato,4,No,Gravity,No
+439,Vegetable,Primary,Potato,4.11,No,Gravity,No
+440,Vegetable,Primary,Carrot,1.01,No,Localized,Small tunel
+441,Vegetable,Primary,Coriander and parsley,0.35,Yes,Localized,No
+442,Vegetable,Primary,Zucchini,0.45,Yes,Localized,No
+443,Vegetable,In succession,Green bean,0.4,No,NA,No
+444,Vegetable,Primary,Cucumber,0.2,Yes,Aspersion,Big Tunel
+445,Vegetable,Primary,Tomato,0.19,Yes,Aspersion,Big Tunel
+446,Vegetable,Primary,Zucchini,0.2,Yes,Localized,No
+447,Vegetable,Primary,Coriander and parsley,0.52,Yes,Localized,No
+448,Vegetable,In succession,Coriander and parsley,0.2,Yes,Localized,No
+449,Vegetable,Primary,Celery,1.02,Yes,Localized,No
+450,Vegetable,Primary,Tomato,1.02,Yes,Localized,No
+451,Vegetable,Primary,Cucumber,0.1,Yes,Localized,No
+452,Vegetable,In association,Coriander and parsley,1.05,No,NA,No
+453,Vegetable,Primary,Coriander and parsley,0.6,Yes,Localized,No
+454,Vegetable,Primary,Coriander and parsley,0.903,Yes,Localized,No
+455,Vegetable,In association,Mint,0.08,Yes,Localized,No
+456,Vegetable,In succession,Green bean,1,Yes,Localized,No
+457,Vegetable,Primary,Zucchini,1,Yes,Localized,No
+458,Vegetable,Primary,Coriander and parsley,0.9,Yes,Localized,No
+459,Vegetable,Primary,Tomato,0.59,Yes,Localized,Big Tunel
+460,Vegetable,Primary,Cucumber,0.5,Yes,Localized,Big Tunel
+461,Vegetable,Primary,Celery,1.1,No,NA,No
+462,Vegetable,Primary,Tomato,0.58,Yes,Localized,Small tunel
+463,Vegetable,Primary,Potato,0.29,Yes,Localized,Small tunel
+464,Vegetable,Primary,Strawberry,0.29,Yes,Localized,Big Tunel
+465,Vegetable,In succession,Strawberry,20,Yes,"Gravity, Localized",Small tunel
+466,Vegetable,Primary,Strawberry,20,Yes,"Gravity, Localized",Small tunel
+467,Vegetable,Primary,Zucchini,0.3,Yes,Localized,No
+468,Vegetable,In succession,Zucchini,2,No,NA,No
+469,Vegetable,In succession,Artichoke,4.3,No,NA,No
+470,Vegetable,In succession,Jerusalem artichoke,2.86,No,NA,No
+471,Vegetable,In succession,Eggplant,5.3,No,NA,No
+472,Vegetable,In succession,Cauliflower,2.2,No,NA,No
+473,Vegetable,Primary,Tomato,2,No,NA,No
+474,Vegetable,Primary,Potato,4.3,No,NA,No
+475,Vegetable,Primary,Coriander and parsley,0.26,No,NA,No
+476,Vegetable,Primary,Potato,2.86,No,NA,No
+477,Vegetable,Primary,Potato,5.3,No,NA,No
+478,Vegetable,Primary,Tomato,2.2,No,NA,No
+479,Vegetable,Primary,Onion,0.3,Yes,Localized,Multi-chapel
+480,Vegetable,Primary,Onion,0.35,Yes,Localized,Big Tunel
+481,Vegetable,Primary,Coriander and parsley,0.1,Yes,Localized,Big Tunel
+482,Vegetable,Primary,Coriander and parsley,0.43,Yes,Localized,No
+483,Vegetable,In succession,Tomato,0.42,Yes,"Localized, Pivot",No
+484,Vegetable,In succession,Potato,1.1,Yes,Gravity,No
+485,Vegetable,In succession,Tomato,1.88,No,"Localized, Pivot",No
+486,Vegetable,Primary,Mint,0.35,Yes,Localized,No
+487,Vegetable,In succession,Potato,1.5,Yes,Localized,No
+488,Vegetable,Primary,Cucumber,0.2,Yes,Localized,Multi-chapel
+489,Vegetable,Primary,Green bean,1.5,Yes,Localized,No
+490,Vegetable,Primary,Cucumber,0.3,No,Localized,Multi-chapel
+491,Vegetable,Primary,Green bean,0.2,No,NA,No
+492,Vegetable,Primary,Cucumber,1,No,Localized,No
+493,Vegetable,In succession,Carrot,2.15,No,NA,No
+494,Vegetable,Primary,Tomato,2.15,No,NA,No
+495,Vegetable,In succession,Jerusalem artichoke,6.03,No,NA,No
+496,Vegetable,In succession,Zucchini,6.01,No,NA,No
+497,Vegetable,Primary,Potato,6.03,No,NA,No
+498,Vegetable,Primary,Potato,6.01,No,NA,No
+499,Vegetable,Primary,Cucumber,0.8,Yes,Localized,Multi-chapel
+500,Vegetable,Primary,Coriander and parsley,0.1,Yes,Localized,No
+501,Vegetable,Primary,Zucchini,0.67,Yes,Localized,No
+502,Vegetable,Primary,Tomato,0.46,Yes,Aspersion,No
+503,Vegetable,Primary,Zucchini,0.64,Yes,Localized,No
+504,Vegetable,Primary,Mint,0.2,No,NA,No
+505,Vegetable,Primary,Mint,0.18,No,NA,No
+506,Vegetable,Primary,Potato,0.27,Yes,Localized,Big Tunel
+507,Vegetable,Primary,Tomato,0.1,Yes,Localized,Big Tunel
+508,Vegetable,Primary,Cucumber,0.28,Yes,Localized,No
+509,Vegetable,Primary,Zucchini,0.12,Yes,Localized,No
+510,Vegetable,In succession,Green bean,3.1,Yes,Localized,No
+511,Vegetable,In succession,Zucchini,2,Yes,Localized,No
+512,Vegetable,Primary,Potato,4,Yes,Localized,No
+513,Vegetable,Primary,Potato,3.1,Yes,Localized,No
+514,Vegetable,Primary,Tomato,2,Yes,Localized,No
+515,Vegetable,Primary,Green bean,0.88,Yes,Localized,No
+516,Vegetable,Primary,Zucchini,0.5,Yes,Localized,No
+517,Vegetable,Primary,Potato,0.2,Yes,Gravity,No
+518,Vegetable,Primary,Potato,0.54,Yes,"Gravity, Localized",No
+519,Vegetable,Primary,Zucchini,0.5,Yes,"Gravity, Localized",No
+520,Vegetable,Primary,Potato,0.28,Yes,Localized,No
+521,Vegetable,Primary,Potato,0.27,Yes,Localized,No
+522,Vegetable,Primary,Potato,0.6,No,NA,No
+523,Vegetable,In succession,Zucchini,2,Yes,Localized,No
+524,Vegetable,Primary,Potato,2.65,Yes,Localized,No
+525,Vegetable,Primary,Tomato,2,Yes,Localized,No
+526,Vegetable,Primary,Tomato,1,Yes,Localized,No
+527,Vegetable,In succession,Carrot,9.01,No,NA,No
+528,Vegetable,In succession,Zucchini,8,No,NA,No
+529,Vegetable,In succession,Eggplant,7,No,NA,No
+530,Vegetable,Primary,Potato,9.01,No,NA,No
+531,Vegetable,Primary,Potato,8,No,NA,No
+532,Vegetable,Primary,Potato,7,No,NA,No
+533,Vegetable,Primary,Cucumber,0.88,Yes,Localized,Big Tunel
+534,Vegetable,Primary,Tomato,0.2,Yes,"Localized, Pivot",No
+535,Vegetable,Primary,Coriander and parsley,0.1,Yes,"Localized, Pivot",No
+536,Vegetable,Primary,Mint,0.68,Yes,Localized,No
+537,Vegetable,Primary,Potato,0.15,Yes,Localized,No
+538,Vegetable,Primary,Potato,0.1,Yes,Localized,No
+539,Vegetable,In association,Absinthe,1.75,Yes,Gravity,No
+540,Vegetable,Primary,Mint,0.08,Yes,Gravity,No
+541,Vegetable,In succession,Green bean,4.36,No,NA,No
+542,Vegetable,Primary,Potato,4.36,No,NA,No
+543,Vegetable,Primary,Cucumber,0.3,Yes,Localized,No
+544,Vegetable,In succession,Zucchini,3.08,Yes,Localized,No
+545,Vegetable,In succession,Cauliflower,3,Yes,Localized,No
+546,Vegetable,Primary,Potato,3.08,Yes,Localized,No
+547,Vegetable,Primary,Potato,3,Yes,Localized,No
+548,Vegetable,In succession,Zucchini,2.34,No,Localized,No
+549,Vegetable,In succession,Carrot,4.18,No,NA,No
+550,Vegetable,Primary,Tomato,2.34,No,Localized,No
+551,Vegetable,Primary,Potato,4.18,No,NA,No
+552,Vegetable,Primary,Zucchini,1.64,No,NA,No
+553,Vegetable,In succession,Zucchini,2.05,Yes,Localized,No
+554,Vegetable,Primary,Potato,2.05,Yes,Localized,No
+555,Vegetable,Primary,Cucumber,1.09,Yes,Localized,Big Tunel
+556,Vegetable,Primary,Cucumber,1,Yes,Localized,Big Tunel
+557,Vegetable,In succession,Cucumber,1.93,Yes,Localized,Big Tunel
+558,Vegetable,Primary,Tomato,1.93,Yes,Localized,Big Tunel
+559,Vegetable,Primary,Cucumber,1.1,Yes,Localized,Big Tunel
+560,Vegetable,Primary,Green bean,0.56,No,NA,No
+561,Vegetable,Primary,Green bean,0.69,No,NA,No
+562,Vegetable,Primary,Cucumber,0.29,No,NA,Big Tunel
+563,Vegetable,In succession,Mint,3.08,No,NA,No
+564,Vegetable,Primary,Potato,3.08,No,NA,No
+565,Vegetable,Primary,Potato,0.25,Yes,Localized,No
+566,Vegetable,In association,Tomato,0.1,Yes,Localized,No
+567,Vegetable,In association,Carrot,0.09,Yes,Localized,No
+568,Vegetable,In succession,Carrot,3.34,No,NA,No
+569,Vegetable,In succession,Zucchini,2,No,NA,No
+570,Vegetable,Primary,Potato,3.34,No,NA,No
+571,Vegetable,Primary,Tomato,2,No,NA,No
+572,Vegetable,Primary,Eggplant,1.18,No,NA,No
+573,Vegetable,Primary,Cucumber,0.77,Yes,Localized,Small tunel
+574,Vegetable,Primary,Cucumber,0.75,Yes,Localized,Small tunel
+575,Vegetable,In association,Mint,0.38,Yes,Localized,No
+576,Vegetable,Primary,Potato,1.53,Yes,Localized,No
+577,Vegetable,In association,Tomato,1,Yes,Localized,No
+578,Vegetable,In association,Cucumber,0.5,Yes,Gravity,No
+579,Vegetable,In succession,Cucumber,1.65,Yes,Localized,Small tunel
+580,Vegetable,Primary,Tomato,1.65,Yes,Localized,Small tunel
+581,Vegetable,Primary,Mint,0.2,Yes,Localized,No
+582,Vegetable,In association,Celery,0.1,Yes,Localized,No
+583,Vegetable,In association,Coriander and parsley,0.1,Yes,Localized,No
+584,Vegetable,Primary,Kiwat tomato,0.616,Yes,Localized,No
+585,Vegetable,In association,Potato,0.5,Yes,Localized,No
+586,Vegetable,Primary,Tomato,0.26,Yes,Localized,No
+587,Vegetable,In association,Potato,0.2,Yes,Localized,No
+588,Vegetable,Primary,Tomato,0.5,Yes,Localized,No
+589,Vegetable,In association,Potato,0.38,Yes,Localized,No
+590,Vegetable,Primary,Tomato,1.7,Yes,Localized,No
+591,Vegetable,In association,Potato,1,Yes,Localized,No
+592,Vegetable,In association,Mint,0.5,Yes,Localized,No
+593,Vegetable,Primary,Zucchini,1,Yes,Localized,No
+594,Vegetable,Primary,Hot pepper,1,Yes,Localized,No
+595,Vegetable,Primary,Cucumber,0.23,Yes,Localized,No
+596,Vegetable,Primary,Potato,0.41,Yes,Localized,No
+597,Vegetable,In association,Tomato,0.3,Yes,Localized,No
+598,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+599,Vegetable,In association,Tomato,0.26,Yes,Localized,No
+600,Vegetable,Primary,Potato,0.5,Yes,Localized,No
+601,Vegetable,In association,Tomato,0.47,Yes,Localized,No
+602,Vegetable,In succession,Zucchini,3,Yes,Localized,No
+603,Vegetable,Primary,Potato,3,Yes,Localized,No
+604,Vegetable,Primary,Zucchini,0.56,Yes,Localized,No
+605,Vegetable,Primary,Mint,0.9,Yes,Localized,No
+606,Vegetable,Primary,Kiwat tomato,0.75,Yes,Localized,No
