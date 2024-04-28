@@ -1,7 +1,20 @@
 import openai
 import streamlit as st
+import PyPDF2
+from io import BytesIO
+import docx
 
-# Streamlit UI components for API key input
+def extract_text_from_pdf(file):
+    with BytesIO(file.getvalue()) as pdf_file:
+        reader = PyPDF2.PdfReader(pdf_file)
+        text = [page.extract_text() for page in reader.pages]
+        return "".join(text) if text else ""
+
+def extract_text_from_docx(file):
+    doc = docx.Document(file)
+    return "\n".join(paragraph.text for paragraph in doc.paragraphs)
+
+# Streamlit UI components for API key input:
 api_key = st.text_input("Enter your OpenAI API Key:", type="password")
 client = openai.OpenAI(api_key=api_key)
 
@@ -33,7 +46,19 @@ if api_key:
         return response.choices[0].message.content
 
     st.title('ResumeFit: Compare Your Resume to Job Descriptions')
-    resume_text = st.text_area("Paste Your Resume Here")
+    
+    # resume_text = st.text_area("Paste Your Resume Here")
+    uploaded_file = st.file_uploader("Upload Your Resume", type=['pdf', 'txt', 'docx'])
+    if uploaded_file is not None:
+        if uploaded_file.type == "application/pdf":
+            resume_text = extract_text_from_pdf(uploaded_file)
+        elif uploaded_file.type == "application/vnd.openxmlformats-officedocument.wordprocessingml.document":
+            resume_text = extract_text_from_docx(uploaded_file)
+        elif uploaded_file.type == "text/plain":
+            resume_text = str(uploaded_file.read(), 'utf-8')
+    else:
+        resume_text = st.text_area("Or paste your resume here")
+    
     job_description_text = st.text_area("Paste the Job Description Here")
 
     submit_button = st.button('Compare')
